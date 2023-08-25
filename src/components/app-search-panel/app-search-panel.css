@@ -1,0 +1,14 @@
+.app-search-panel{
+    margin-top: 20px;
+    padding: 10px 10px;
+    
+    /* border: 2px solid black; */
+    /* box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2); */
+    
+}
+/* .app-search-panel span{
+    background-color: rgba(0, 0, 255, .2);
+} */
+.form-control{
+    border: 1px solid black;
+}

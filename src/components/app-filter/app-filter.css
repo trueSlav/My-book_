@@ -1,0 +1,12 @@
+.app-filter{
+    margin-top: 20px;
+}
+.btn{
+    border-radius: 0;
+}
+.btn-primary{
+    background-color: rgba(0, 0, 255, .2);
+    border: 0px solid rgba(0, 0, 255, .2);
+    margin-right: 10px;
+    color: #000;
+}

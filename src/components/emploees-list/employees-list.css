@@ -1,0 +1,5 @@
+.list-group{
+    padding: 0 20px;
+    border: 2px solid black;
+    box-shadow: 12px 12px 0px 0px rgba(0, 0, 255, .2);
+}
